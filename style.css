@@ -1,0 +1,19 @@
+.heading {
+    margin: auto;
+    width: 400px; 
+    text-align: center; 
+}
+h3 {
+    margin: auto;
+    width: 400px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    border: 5px solid grey;
+    margin: auto;
+}
+
