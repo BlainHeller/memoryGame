@@ -3,7 +3,7 @@ Title:
 Lunch Menu Memory
 
 About: 
-A fast food themed memory game! This is a browser-based game, written primarily in JavaScript, featuring original pixel art.
+A fast food themed game of memory! Lunch Menu Memory is a web browser-based game, written primarily in JavaScript, featuring original pixel art.
 
 Game Objective: 
 The goal of the game is to find matching pairs of cards. 
